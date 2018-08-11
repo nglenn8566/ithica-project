@@ -1,0 +1,14 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+body{
+    margin: 0px !important;
+    
+}
+nav{
+    width: 100%;
+
+}
+
+.bg-gradient{
+    background: linear-gradient(to left,rgb(0, 101, 164, 0.5), rgb(0,0,0)) !important;
+    
+}
